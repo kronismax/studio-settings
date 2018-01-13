@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Comments/Replace with Block Comment" />
-    <ignoreAction name="Java/Other/Make Call Chain Into Call Sequence" />
-  </component>
-</application>

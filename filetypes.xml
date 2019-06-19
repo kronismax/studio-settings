@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Camera1EnumeratorRewrite" type="PLAIN_TEXT" />
+      <mapping ext="txt_arch" type="PLAIN_TEXT" />
+      <mapping ext="txt_arch2" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

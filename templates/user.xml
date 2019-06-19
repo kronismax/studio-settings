@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="timberdebug" value="timber.log.Timber.d(&quot;$STRING$&quot;);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="timberDebugFormat" value="timber.log.Timber.d(&quot;$STRING$&quot;, $DOUBLE$);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DOUBLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

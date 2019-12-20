@@ -3,6 +3,19 @@
     <option name="addedPositive">
       <list>
         <option value="2019-08-06 10:42:11.662 13769-13769/? I/SEMS:MSFramework_10.1.0.000: [2][DeviceUtils] isSamsungAccountSignedIn : false" />
+        <option value="2019-12-20 13:15:15.751 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=93" />
+        <option value="2019-12-20 13:15:15.783 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel constructed: fd=94" />
+        <option value="2019-12-20 13:15:17.530 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel constructed: fd=93" />
+        <option value="2019-12-20 13:15:17.605 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel constructed: fd=96" />
+        <option value="2019-12-20 13:15:17.605 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=94" />
+        <option value="2019-12-20 13:15:18.390 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel constructed: fd=95" />
+        <option value="2019-12-20 13:15:18.390 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=96" />
+        <option value="2019-12-20 13:15:18.415 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel constructed: fd=96" />
+        <option value="2019-12-20 13:15:19.439 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=96" />
+        <option value="2019-12-20 13:15:20.153 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=93" />
+        <option value="2019-12-20 13:15:20.184 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel constructed: fd=93" />
+        <option value="2019-12-20 13:15:20.184 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=95" />
+        <option value="2019-12-20 13:15:15.784 3292-3292/il.co.schoolapps.schooly D/InputTransport: Input channel destroyed: fd=95" />
       </list>
     </option>
   </component>

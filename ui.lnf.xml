@@ -5,7 +5,6 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="25" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="31" />
     <option name="MAX_LOOKUP_WIDTH2" value="963" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />

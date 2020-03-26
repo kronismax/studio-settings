@@ -1,12 +1,12 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-02-10T21:46:19</property>
+    <property name="modified">2020-03-26T16:36:16</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />

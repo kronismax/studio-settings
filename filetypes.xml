@@ -5,6 +5,7 @@
       <mapping pattern="Camera1EnumeratorRewrite" type="PLAIN_TEXT" />
       <mapping ext="txt_arch" type="PLAIN_TEXT" />
       <mapping ext="txt_arch2" type="PLAIN_TEXT" />
+      <mapping pattern="emfxeDB" type="SQL" />
     </extensionMap>
   </component>
 </application>

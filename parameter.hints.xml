@@ -3,7 +3,9 @@
     <blacklists>
       <blacklist language="Java" />
       <blacklist language="Groovy" />
-      <blacklist language="Kotlin" />
+      <blacklist language="Kotlin">
+        <added pattern="com.emfex.model.history.HistoryLite.Companion.HistoryType(type,text,drawable)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />

@@ -3,4 +3,8 @@
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="20" />
+    <option name="MAX_LOOKUP_WIDTH2" value="891" />
+  </component>
 </application>

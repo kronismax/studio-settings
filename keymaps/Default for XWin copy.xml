@@ -11,10 +11,12 @@
   <action id="CloseAllNotifications">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
+  <action id="DumpLookupElementWeights" />
   <action id="Genymotion.gdm">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="IntroduceTypeAlias" />
+  <action id="Kotlin.RunScratch" />
   <action id="Macro.distraction free">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
@@ -48,5 +50,11 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="com.developerphil.adbidea.action.DisableWifiAction">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="com.developerphil.adbidea.action.EnableWifiAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
 </keymap>

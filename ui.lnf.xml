@@ -5,9 +5,11 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="31" />
     <option name="MAX_LOOKUP_WIDTH2" value="963" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>

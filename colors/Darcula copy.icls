@@ -1,12 +1,15 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-05-17T10:33:04</property>
+    <property name="modified">2020-06-03T11:15:34</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <colors>
+    <option name="INDENT_GUIDE" value="313335" />
+  </colors>
   <attributes>
     <option name="HTML_CODE">
       <value />

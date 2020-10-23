@@ -2,7 +2,6 @@
   <component name="ActionMacroManager">
     <macro name="distraction free">
       <action id="EditorToggleShowGutterIcons" />
-      <action id="ViewNavigationBar" />
       <action id="ViewStatusBar" />
       <action id="ViewToolButtons" />
       <action id="ViewToolBar" />

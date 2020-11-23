@@ -6,7 +6,7 @@
       <option name="KOTLIN_TOPLEVEL" value="false" />
     </context>
   </template>
-  <template name="by lazy" value="by lazy {$SELECTION$}" toReformat="true" toShortenFQNames="true">
+  <template name="by lazy" value="by lazy {$SELECTION$}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_COMMENT" value="false" />

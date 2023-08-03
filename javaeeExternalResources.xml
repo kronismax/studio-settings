@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.AndroidStudio3.0/system/extResources/cbe730b3_maven-v4_0_0.xsd" />
+    <ignored-resource url="http://www.puppycrawl.com/dtds/configuration_1_2.dtd" />
+  </component>
+</application>
